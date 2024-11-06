@@ -10,3 +10,9 @@ docker.io/gitlab/gitlab-ce:16.7.10-ce.0
 docker.io/gitlab/gitlab-ce:16.11.10-ce.0
 docker.io/gitlab/gitlab-ce:17.3.6-ce.0
 docker.io/gitlab/gitlab-ce:17.5.1-ce.0
+docker:24.0.2-dind
+docker:24.0.2
+golang:1.22
+alpine:latest
+node:20
+nginx:alpine
