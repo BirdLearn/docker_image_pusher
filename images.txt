@@ -17,3 +17,4 @@ golang:1.22
 alpine:latest
 node:20
 nginx:alpine
+centos:centos8
