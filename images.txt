@@ -18,4 +18,6 @@
 # node:20
 # nginx:alpine
 # centos:centos8
-forgejo/forgejo:latest
+# forgejo/forgejo:latest
+nginx:stable-alpine
+neilpang/acme.sh:latest
