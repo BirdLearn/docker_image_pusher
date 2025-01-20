@@ -19,5 +19,6 @@
 # nginx:alpine
 # centos:centos8
 # forgejo/forgejo:latest
-nginx:stable-alpine
-neilpang/acme.sh:latest
+# nginx:stable-alpine
+# neilpang/acme.sh:latest
+webpsh/webp-server-go
