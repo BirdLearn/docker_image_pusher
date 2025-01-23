@@ -21,4 +21,5 @@
 # forgejo/forgejo:latest
 # nginx:stable-alpine
 # neilpang/acme.sh:latest
-webpsh/webp-server-go
+# webpsh/webp-server-go
+ gitea/gitea:1.23.1
