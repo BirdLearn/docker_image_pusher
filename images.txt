@@ -23,4 +23,4 @@
 # neilpang/acme.sh:latest
 # webpsh/webp-server-go
 #gitea/gitea:1.23.1
-docker.io/gitea/act_runner:latest
+docker.io/gitea/act_runner:nightly
