@@ -22,4 +22,5 @@
 # nginx:stable-alpine
 # neilpang/acme.sh:latest
 # webpsh/webp-server-go
- gitea/gitea:1.23.1
+#gitea/gitea:1.23.1
+docker.io/gitea/act_runner:latest
