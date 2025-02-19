@@ -24,4 +24,5 @@
 # webpsh/webp-server-go
 # gitea/gitea:1.23.1
 # docker.io/gitea/act_runner:nightly
-gitea/runner-images:ubuntu-latest
+# gitea/runner-images:ubuntu-latest
+paddlepaddle/paddle:3.0.0rc1
